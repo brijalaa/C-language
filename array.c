@@ -6,6 +6,6 @@ int main(){
  {
     scanf("%d", &marks[i]);
  }
- printf("marks 1,2,3,4,5  is %d,%d,%d,%d,%d,", marks[0],marks[1],marks[2],marks[3],marks[4]);
+ printf("marks of 5 students are is %d,%d,%d,%d,%d,", marks[0],marks[1],marks[2],marks[3],marks[4]);
 return 0;
 }
