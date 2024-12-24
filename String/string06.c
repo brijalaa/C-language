@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main()
 {
-    char abc[8]; // 7 characters+null terminator
-
+    char abc[8];
+  
     for (int i = 0; i < 7; i++)
     {
         scanf("%c", &abc[i]);
